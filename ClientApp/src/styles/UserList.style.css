@@ -1,0 +1,21 @@
+.add-button {
+    margin-bottom: 10px;
+}
+
+.user-list th {
+    text-align: center !important;
+}
+
+.source-type-label {
+    margin-left: 20px;
+}
+
+.source-type-select {
+    margin-left: 10px;
+    width: 100px;
+}
+
+.top-panel {
+    display: flex;
+    align-items: baseline;
+}

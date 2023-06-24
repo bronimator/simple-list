@@ -1,0 +1,14 @@
+.filter-block {
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+.submit-button {
+    margin-bottom: 0px;
+}
+
+@media screen and (min-width: 900px) {
+    .filter-block {
+        max-width: 50%;
+    }
+}
